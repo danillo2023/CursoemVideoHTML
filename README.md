@@ -30,4 +30,3 @@ git branch -M main
 git remote add origin https://github.com/danillo2023/CursoemVideoHTML.git
 git push -u origin main
 
-onde parei https://www.youtube.com/watch?v=8TgKFYkcO5Y
